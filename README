@@ -1,3 +1,5 @@
 REST API with embedded Relational Database
 
-this REST API provides an interface for interacting with an embedded Relational Database through auto generated endpoints that trigger CRUD operations on the database
+this REST API provides an interface for interacting with an embedded Relational Database through auto generated endpoints that trigger CRUD operations on the database.
+
+This project was used for the research and tests required for my Masters Thesis and is not intended to be devloped further or used in any real projects
